@@ -2,3 +2,7 @@ __pycache__/
 .venv/
 *.pyc
 
+cropped*.png
+headers*.txt
+server*.log
+
