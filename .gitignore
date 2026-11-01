@@ -6,3 +6,6 @@ cropped*.png
 headers*.txt
 server*.log
 
+
+.vercel
+.env*
